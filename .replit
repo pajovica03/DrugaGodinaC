@@ -1,0 +1,4 @@
+language = "c"
+
+  run = "gcc -o Nizovi/builds/zadatak4 Nizovi/zadatak4.c -lm && ./Nizovi/builds/zadatak3"
+  

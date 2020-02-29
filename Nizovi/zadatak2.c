@@ -1,4 +1,6 @@
-#include <stdio.h>Srednja vrednost niza Z (negativnih): -2.000000
+//Srednja vrednost niza Z (negativnih): -2.000000
+
+#include <stdio.h>
 
 #include <math.h>
  
